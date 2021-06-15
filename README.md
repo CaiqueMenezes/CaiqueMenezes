@@ -1,4 +1,4 @@
-## Hi !! I'm caique and I'm an intern in web/java development at [CIAware](https://ciaware.com.br/)
+## Hi !! I'm caique
  <div>
   <a href="https://github.com/CaiqueMenezes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiqueMenezes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
