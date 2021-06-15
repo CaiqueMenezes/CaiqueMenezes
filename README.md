@@ -1,16 +1,11 @@
-# Hey 👋
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-My name is Caique Menezes 👨‍💻
-
-I am student of systems development, and I've been doing Web projects since 2020  🎓
-
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-
-
-- 📍 From Brazil living in Ribeirão Preto - SP
-- 💻 Web/Java Developer 
-- ✔ Sharing a little bit of my Web development journey here
-
-Reach me out 👇🏼
-
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caique-menezes-85a0761b9/)](https://www.linkedin.com/in/caique-menezes-85a0761b9/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-darkblue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/caiquee18/)](https://www.instagram.com/caiquee18/) 
+  ![Snake animation](https://github.com/rafaballerini/CaiqueMenezes/blob/output/github-contribution-grid-snake.svg)
