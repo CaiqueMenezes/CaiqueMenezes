@@ -1,4 +1,4 @@
-## Hi !! I'm caique and I'm an Front-End Developer at [Fairy Code](https://www.fairycode.com.br/)
+## Hi !! I'm caique and I'm an UI Designer at [Fairy Code](https://www.fairycode.com.br/)
  <div>
   <a href="https://github.com/CaiqueMenezes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaiqueMenezes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
